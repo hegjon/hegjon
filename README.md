@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Stuff I do and like:**
 
-- I’m currently learning Qt and QML.
+- I’m currently learning Rust.
 - I help maintaining several Bitcoin Cash related packages for [Fedora Linux](https://getfedora.org/).
 
 **Languages and Tools:**
