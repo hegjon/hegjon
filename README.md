@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hey there, I'm Jonny Heggheim, a Devops and open source contributor from Bergen, Norway.
+## Hey there, I'm Jonny Heggheim, a Devops and open source contributor.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -8,12 +8,6 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hegjon)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonnyheggheim/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hegjon@gmail.com)
-
-<!-- Talking about you -->
-**Stuff I do and like:**
-
-- I’m currently learning Rust.
-- I help maintaining several Bitcoin Cash related packages for [Fedora Linux](https://getfedora.org/).
 
 **Languages and Tools:**
 
